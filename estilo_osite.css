@@ -1,0 +1,33 @@
+body {
+  background-color: aquamarine;
+}
+
+#titulo {
+  font-family: "Comic Sans MS";
+  text-align: center;
+  font-size: 2em;
+}
+
+#botao {
+  color: white;
+  background-color: black;
+}
+
+.divisoes {
+  margin: auto;
+  padding: 10px;
+  border: 1px ridge black;
+  border-radius: left;
+  text-align: center;
+}
+
+.subtitulo {
+  text-align: center;
+  font-size: 1.5em;
+  color: rgb(241, 6, 6);
+  font-family: "Verdana";
+}
+
+img:hover {
+  opacity: 1;
+}
